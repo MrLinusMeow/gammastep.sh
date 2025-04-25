@@ -1,2 +1,2 @@
 #!/bin/bash
-gammastep -P -r -O 4700K
+gammastep -P -O 4500K
